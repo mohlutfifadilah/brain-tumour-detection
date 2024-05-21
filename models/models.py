@@ -1,6 +1,3 @@
-import cv2
-import numpy as np
-import pandas as pd
 from catboost import CatBoostClassifier
 from sklearn.model_selection import GridSearchCV
 from torch.utils.data import Dataset
