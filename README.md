@@ -6,6 +6,10 @@
   <p align="center">
     Deteksi tumor otak menggunakan algoritma catboost serta ekstrasi manual (bentuk dan tekstur)
     <br />
+    Ekstraksi Bentuk - Canny : Operator deteksi tepi yang menggunakan algoritma multi-tahap untuk mendeteksi berbagai tepi dalam gambar
+    <br/>
+    Ekstraksi Tekstur - GLCM : metode yang melakukan analisis terhadap suatu piksel pada citra dan mengetahui tingkat keabuan yang sering terjadi
+    <br/>
     Dataset MRI otak base on <a href="https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset"><strong>Kaggle »</strong></a>
     <br />
     <br />
